@@ -100,6 +100,13 @@ At one time, we 3d printed a mixer propeller so it can be attached to the motor.
 -Arduino problems with Mac computers?
 
 
+## Learning
+-practicality of sensors
+-the amperage and voltage
+-electricity that is produced and consumed at a time
+-usage of the sensors
+
+
 ## Future Development
 We will try to finish the artifacts as soon as we figure it out. First, we will finish the sensor embedded in the compost and will have the soil mixer ready.
 For the soil mixer, we want to connect it to the phone via wifi so it is available for controlling on/off online.
