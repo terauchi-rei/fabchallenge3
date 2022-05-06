@@ -19,51 +19,51 @@ We intend to use this concept to design an interaction between sensors that can 
 1. Humidity sensor controlled by arduino 
 2. Soil Mixer connected to wifi/moving with heat generated energy
 
-![](/fabchallenge3/images/S__6307842.jpg)
-![](/fabchallenge3/images/protocol.jpeg)
-![](/fabchallenge3/images/ref.jpeg)
+![](/images/S__6307842.jpg)
+![](/fimages/protocol.jpeg)
+![](/images/ref.jpeg)
 
 #Humidity sensor
 
 This time we tried to use the humidity sensor connected to wifi, in order to make your phone showing the percentage of humidity whenever you connect to the page.  It detects the humidity at every certain time that you control by arduino.
 First, we have this water pump kit that we wanted to use in order to automatically control the humidity of plants/compost.
 
-![](/fabchallenge3/images/kit.jpeg)
+![](/images/kit.jpeg)
 
 In theory, if we have this on, we will not let the plants die. We killed some plants when we left them over the holidays.
 
-![](/fabchallenge3/images/S__6438935.jpg)
+![](/images/S__6438935.jpg)
 
 We first planned to have this dream image.
 Somehow we wanted to pursue the way that we share collected  data community wise since we are engaged in this community garden in Poblenou.
 Emilio tried hard to control this humidity sensor using an arduino IDE for the CPU we had of ESP32. 
 So many problems happened through this process because the sensor gives the random numbers which indicate the voltage that sensor senses. So it was hard to convert them into the number of percentages. 
 
-![](/fabchallenge3/images/S__6438937.jpg)
-![](/fabchallenge3/images/S__6438947.jpg)
+![](/images/S__6438937.jpg)
+![](/images/S__6438947.jpg)
 
 Also, the percentage was somehow backward of the actual number. So it was also hard to fix it how it is supposed to be.
 In the end, it is connected to the rechargeable battery to be on its own so it doesn't have to be connected to a computer. With a 3d printed case for both battery and the CPU, it can be embedded in the soil of plants/compost.
 While printing, Emilio worked on the Html to visualize the percentage in a nicer way to show information.
 
-![](/fabchallenge3/images/html.jpeg)
+![](/images/html.jpeg)
 
 !! It is still in the process. Now printing.
  
 # Soil Mixer
 Firstly we wanted to use peltiers to generate electricity with the heat of compost. So we  tried how it works and at which degrees of temperature that it can generate electricity. It is called waste heat power generation.
 
-![](/fabchallenge3/images/coffeee.jpeg)
-![](/fabchallenge3/images/peltier.jpeg)
+![](/images/coffeee.jpeg)
+![](/images/peltier.jpeg)
 
 We first tried with the motor, heating up the peltier with a heat gun, also checking the temperature with a thermometer.
 It looks like it(one peltier) can move the motor at 60 degrees. 
 
-![](/fabchallenge3/images/motor.gif)
+![](/images/motor.gif)
 
 While leaving some soil outside under sun with the acrylic sphere cover, it reaches 35 degrees or more. In theory, the website says that it can reach up to 65 degrees.
 
-![](/fabchallenge3/images/S__6438933.jpg)
+![](/images/S__6438933.jpg)
 
 The peltier I got was this.Max 12 volts and 6A.
 Then I tried to move the water pump that requires 3 or 5 volts. I connected two peltiers to generate electricity that must be enough to turn on the water pump.
@@ -74,18 +74,18 @@ In the end, with only 2 peltiers, it is impossible to generate enough energy to 
 Peltiers moved the motor, so we decided to use the motor for the soil mixer. So probably we can control the compost mixer with its heat.
 We first set up this breadboard work, for making a motor work with the light so we can later change the protocol to make it work with the heat and with the peltier.
 
-![](/fabchallenge3/images/S__6438939.jpg)
-![](/fabchallenge3/images/mixer.jpeg)
-![](/fabchallenge3/images/S__6438932_0.jpg)
+![](/images/S__6438939.jpg)
+![](/images/mixer.jpeg)
+![](/images/S__6438932_0.jpg)
 
 
 Though, somehow it didn’t work even with the computer. So we are stuck here.
 
-![](/fabchallenge3/images/arduino.jpeg)
+![](/images/arduino.jpeg)
 
 At one time, we 3d printed a mixer propeller so it can be attached to the motor.
 
-![](/fabchallenge3/images/S__6438933.jpg)
+![](/images/S__6438933.jpg)
 
 ## Problems
 -the sensor was not stable. We struggled to figure out the sensor was properly working.
