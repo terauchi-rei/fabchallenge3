@@ -47,8 +47,14 @@ In the end, it is connected to the rechargeable battery to be on its own so it d
 While printing, Emilio worked on the Html to visualize the percentage in a nicer way to show information.
 
 ![](/images/html.jpeg)
+![](/images/pcb.jpeg)
+![](/images/test2.jpeg)
+![](/images/test5.jpeg)
+![](/images/plants.jpeg)
 
 !! It is still in the process. Now printing.
+
+![](/images/case.jpeg)
  
 # Soil Mixer
 Firstly we wanted to use peltiers to generate electricity with the heat of compost. So we  tried how it works and at which degrees of temperature that it can generate electricity. It is called waste heat power generation.
