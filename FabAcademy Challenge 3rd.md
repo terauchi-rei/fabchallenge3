@@ -23,7 +23,7 @@ We intend to use this concept to design an interaction between sensors that can 
 ![](/fimages/protocol.jpeg)
 ![](/images/ref.jpeg)
 
-#Humidity sensor
+# Humidity sensor
 
 This time we tried to use the humidity sensor connected to wifi, in order to make your phone showing the percentage of humidity whenever you connect to the page.  It detects the humidity at every certain time that you control by arduino.
 First, we have this water pump kit that we wanted to use in order to automatically control the humidity of plants/compost.
