@@ -102,8 +102,11 @@ At one time, we 3d printed a mixer propeller so it can be attached to the motor.
 
 ## Learning
 -practicality of sensors
+
 -the amperage and voltage
+
 -electricity that is produced and consumed at a time
+
 -usage of the sensors
 
 
