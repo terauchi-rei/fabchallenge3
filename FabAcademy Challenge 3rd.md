@@ -64,6 +64,7 @@ It looks like it(one peltier) can move the motor at 60 degrees.
 While leaving some soil outside under sun with the acrylic sphere cover, it reaches 35 degrees or more. In theory, the website says that it can reach up to 65 degrees.
 
 ![](/images/S__6438933.jpg)
+![](/images/compost.jpeg)
 
 The peltier I got was this.Max 12 volts and 6A.
 Then I tried to move the water pump that requires 3 or 5 volts. I connected two peltiers to generate electricity that must be enough to turn on the water pump.
