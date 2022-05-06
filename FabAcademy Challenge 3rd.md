@@ -16,7 +16,7 @@ We intend to use this concept to design an interaction between sensors that can 
 
 ## Process
 
-1. Humidity sensor controlled by arduino 
+1. Humidity sensor sharing data
 2. Soil Mixer connected to wifi/moving with heat generated energy
 
 ![](/images/S__6307842.jpg)
