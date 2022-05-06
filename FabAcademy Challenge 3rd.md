@@ -85,7 +85,6 @@ Though, somehow it didn’t work even with the computer. So we are stuck here.
 
 At one time, we 3d printed a mixer propeller so it can be attached to the motor.
 
-![](/images/S__6438933.jpg)
 
 ## Problems
 -the sensor was not stable. We struggled to figure out the sensor was properly working.
